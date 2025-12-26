@@ -109,7 +109,7 @@ Loan by marital status & age group
 
 Loan comparison based on mortgage/dependents
 
-🔍 Dashboard Preview:
+🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Applicant%20Demographics%20and%20Financial%20Profile.png
 
 📄 Page 3 — Financial Risk Metrics
 
