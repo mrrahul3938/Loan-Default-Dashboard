@@ -97,7 +97,7 @@ Loan amount by age group
 
 Default rate trends by year
 
-🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Loan%20Default%20%26%20Overview.png
+🔍 Dashboard Preview: (https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Loan%20Default%20%26%20Overview.png).
 
 📄 Page 2 — Applicant Demographics & Financial Profile
 
@@ -109,7 +109,7 @@ Loan by marital status & age group
 
 Loan comparison based on mortgage/dependents
 
-🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Applicant%20Demographics%20and%20Financial%20Profile.png
+🔍 Dashboard Preview: (https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Applicant%20Demographics%20and%20Financial%20Profile.png).
 
 📄 Page 3 — Financial Risk Metrics
 
@@ -121,7 +121,7 @@ Income vs Employment Type distribution
 
 YTD loan comparison
 
-🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Financial%20Risk%20Metrics.png
+🔍 Dashboard Preview: (https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Financial%20Risk%20Metrics.png).
 
 💡 Key Insights
 
