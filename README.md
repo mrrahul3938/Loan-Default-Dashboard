@@ -82,8 +82,6 @@ Published report to Power BI Service
 
 Set up Scheduled Refresh for both Dataflow and Report
 
-Shared report access with stakeholders
-
 📈 Dashboard Pages & Insights
 📄 Page 1 — Loan Default & Overview
 
