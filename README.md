@@ -121,7 +121,7 @@ Income vs Employment Type distribution
 
 YTD loan comparison
 
-🔍 Dashboard Preview:
+🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Financial%20Risk%20Metrics.png
 
 💡 Key Insights
 
