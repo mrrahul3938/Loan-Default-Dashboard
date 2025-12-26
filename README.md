@@ -97,7 +97,7 @@ Loan amount by age group
 
 Default rate trends by year
 
-🔍 Dashboard Preview:
+🔍 Dashboard Preview: https://github.com/mrrahul3938/Loan-Default-Dashboard/blob/main/Loan%20Default%20%26%20Overview.png
 
 📄 Page 2 — Applicant Demographics & Financial Profile
 
